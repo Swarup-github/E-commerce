@@ -1,0 +1,35 @@
+.navbar{
+    height: 120px;
+    width: 100%;
+    background: black;
+}
+.navart1{
+    height: 60px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+input{
+    padding: 8px 10px;
+    text-align: center;
+    border: 2px solid rgb(230, 89, 38);
+
+}
+.navart2{
+    height: 60px;
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    border-radius: 5px;
+    padding: 3px 10px;
+}
+.img{
+    justify-content: center;
+    align-items: center;
+}

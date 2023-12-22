@@ -1,0 +1,17 @@
+.box{
+    height: auto;
+    width: 100%;
+}
+.table{
+    height: auto;
+    width: 90%;
+    margin: auto;
+}
+.table thead{
+    height: 80px;
+    border-bottom:2px solid red ;
+}
+.table tfoot{
+    height: 80px;
+    border-top:2px solid red ;
+}
